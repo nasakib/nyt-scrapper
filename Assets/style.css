@@ -4,3 +4,14 @@
   padding: 30px;
   margin: 0 20px;
 }
+.card {
+  padding: 20px;
+}
+.card:last-child {
+  margin-top: 20px;
+}
+.btn-outlin-primary,
+.btn {
+  border: 0px;
+  color: black;
+}
